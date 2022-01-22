@@ -7,7 +7,7 @@ class Main extends React.Component {
     render() {
       const data = [
         {title:'Питание',
-        text:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque id impedit nemo soluta corrupti cupiditate quisquam.',
+        text:'Lorem ipsum consectetur adipisicing elit. Atque id impedit nemo soluta corrupti cupiditate quisquam.',
         id:'124'},
 
         {title:'Транспорт',
