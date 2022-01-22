@@ -15,7 +15,7 @@ class Main extends React.Component {
         id:'125'},
 
         {title:'Экскурсии',
-        text:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque id impedit nemo soluta corrupti cupiditate quisquam.',
+        text:'Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque id impedit nemo soluta corrupti cupiditate quisquamimpedit nemo soluta corrupti cupiditate quisquam. ',
         id:'126'},
       ]
 
